@@ -12,7 +12,7 @@ design:
   css_class: null
   background:
     text_color_light: false
-    brightness: 0.5
+    brightness: 0.3
     image: title.jpg
     color: rgba(231, 11, 191, 0.74)
     gradient_start: "#e20c0c"
