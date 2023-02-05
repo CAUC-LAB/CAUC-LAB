@@ -28,7 +28,7 @@ publishDate: 2023-02-05T10:07:26.893Z
 tags: []
 projects: null
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
 url_code: ""
 ---
