@@ -1,5 +1,5 @@
 ---
-title: 管理员
+title: 小喇叭
 avatar_filename: avatar
 social: []
 superuser: false
