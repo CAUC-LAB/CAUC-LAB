@@ -16,4 +16,7 @@ organizations:
 education:
   courses: []
 superuser: true
+user_groups:
+  - 学生
+  - 管理员
 ---
