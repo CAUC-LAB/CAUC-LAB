@@ -31,8 +31,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: welcome.jpg
-    - title:
-      content:
+    - title: 课题组招生
+      content: 课题组常年招收计算机视觉/自然语言处理/运筹优化/民航大数据处理与应用等方向的研究生，欢迎咨询报考
       align: right
       background:
         position: center
