@@ -12,11 +12,11 @@ design:
   css_class: null
   background:
     text_color_light: false
-    image:title.jpg
+    image: title.jpg
 #hero_media: title.jpg
 ---
 <br>
 
-中国民航大学
-算机科学与技术学院
-数据智能实验室
+中国民航大学<br>
+算机科学与技术学院<br>
+数据智能实验室<br>
