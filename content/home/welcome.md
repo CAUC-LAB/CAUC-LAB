@@ -11,9 +11,10 @@ design:
   css_style: null
   css_class: null
   background:
-    text_color_light: false
+    text_color_light: true
+    brightness: 0.5
     image: title.jpg
-#hero_media: title.jpg
+#hero_media: titleOrigin.jpg
 ---
 <br>
 
