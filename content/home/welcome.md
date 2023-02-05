@@ -1,5 +1,5 @@
 ---
-widget: landing
+widget: card
 widget_id: test
 headless: true
 weight: 10
