@@ -11,12 +11,13 @@ design:
   css_style: null
   css_class: null
   background:
-    text_color_light: false
+    text_color_light: true
     brightness: 0.3
     image: title.jpg
-    color: rgba(231, 11, 191, 0.74)
-    gradient_start: "#e20c0c"
-    gradient_end: rgba(237, 11, 142, 0.88)
+    color: ""
+    gradient_start: ""
+    gradient_end: ""
+    image_darken: 0.8
 ---
 <br>
 
