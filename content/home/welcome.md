@@ -7,14 +7,16 @@ title: 数据智能实验室
 subtitle: 中国民航大学计算机科学与技术学院
 active: true
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
-    text_color_light: true
+    text_color_light: false
     image: title.jpg
 hero_media: welcome.jpg
 ---
 <br>
 
-中国民航大学计算机科学与技术学院 数据智能实验室
+中国民航大学
+算机科学与技术学院
+数据智能实验室
