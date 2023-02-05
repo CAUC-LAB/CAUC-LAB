@@ -11,5 +11,5 @@ social:
     icon: github
 organizations:
   - name: 中国民航大学
-superuser: false
+superuser: true
 ---
