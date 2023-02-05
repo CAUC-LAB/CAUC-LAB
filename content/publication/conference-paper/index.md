@@ -30,10 +30,10 @@ summary: 关键词生成是指从文本文档中自动生成反映该文档主�
   Management）、2019年的第57届计算语言学协会年会ACL（The 57th Annual Meeting of the Association
   for Computational
   Linguistics）、2018年的《软件学报》等上。其中2015级硕士研究生常耀成发表于《软件学报》2018年第7期的《特征驱动的关键词提取算法综述》一文入选《软件学报》2020年高影响力论文。
-url_dataset: "#"
+url_dataset: "https://github.com/HDKG/HTKG"
 url_project: "https://github.com/HDKG/HTKG"
 url_source: "https://github.com/HDKG/HTKG"
-<!-- url_video: "#" -->
+#url_video: "#"
 title: "HTKG: Deep Keyphrase Generation with Neural Hierarchical Topic Guidance"
 publication: In *The 45th International ACM SIGIR Conference on Research and
   Development in Information Retrieval, SIGIR 2022*
@@ -41,12 +41,12 @@ featured: true
 tags:
   - Source Themes
 date: 2022-07-01T12:00:00.000Z
-<!--
-url_slides: ""
-links:
-  - name: Custom Link
-    url: http://example.org
--->
+
+#url_slides: ""
+#links:
+#  - name: Custom Link
+#    url: http://example.org
+#
 projects:
   - internal-project
 image:
