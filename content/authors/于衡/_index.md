@@ -17,6 +17,6 @@ education:
   courses: []
 superuser: true
 user_groups:
-  - 学生
+  - 硕士一年级
   - 管理员
 ---
