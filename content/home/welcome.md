@@ -1,11 +1,11 @@
 ---
-widget: card
+widget: hero
 widget_id: test
 headless: true
 weight: 10
 title: 数据智能实验室
 subtitle: 中国民航大学计算机科学与技术学院
-active: true
+active: false
 design:
   columns: "1"
   css_style: null
