@@ -25,7 +25,7 @@ authors:
   - 张宇翔 江涛 杨天宇
 publication: In *The 45th International ACM SIGIR Conference on Research and
   Development in Information Retrieval, SIGIR 2022*
-featured: true
+featured: false
 tags:
   - Source Themes
 projects:
