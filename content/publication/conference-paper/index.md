@@ -50,7 +50,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: https://www.cauc.edu.cn/__local/7/2D/DD/2AABDA41173270E51D40E098E15_04C3D4DF_B651.vsb
+  filename: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: "#"
 url_code: "#"
