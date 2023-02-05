@@ -12,7 +12,7 @@ design:
   css_class: null
   background:
     text_color_light: false
-    image:
+    image:title.jpg
 #hero_media: title.jpg
 ---
 <br>
