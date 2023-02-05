@@ -16,12 +16,12 @@ design:
 content:
   slides:
     - title: 欢迎来到数据智能实验室
-      content: 来看一看我们的团队近况吧...
+      content: 来看一看我们的团队近况...
       align: center
       background:
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.5
         media: welcome.jpg
     - title: 
       content: 
