@@ -10,6 +10,9 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    text_color_light: true
+    image: title.jpg
 hero_media: welcome.jpg
 ---
 <br>
