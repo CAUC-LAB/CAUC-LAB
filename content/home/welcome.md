@@ -14,7 +14,7 @@ design:
     text_color_light: true
     brightness: 0.5
     image: title.jpg
-#hero_media: titleOrigin.jpg
+    color: rgba(231, 11, 191, 0.74)
 ---
 <br>
 
