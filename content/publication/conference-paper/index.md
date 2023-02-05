@@ -37,7 +37,7 @@ url_video: "#"
 title: "HTKG: Deep Keyphrase Generation with Neural Hierarchical Topic Guidance"
 publication: In *The 45th International ACM SIGIR Conference on Research and
   Development in Information Retrieval, SIGIR 2022*
-featured: false
+featured: true
 tags:
   - Source Themes
 date: 2023-02-05T05:15:30.411Z
