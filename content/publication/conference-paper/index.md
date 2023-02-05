@@ -1,7 +1,8 @@
 ---
 title: "HTKG: Deep Keyphrase Generation with Neural Hierarchical Topic Guidance"
-abstract: "Keyphrases can concisely describe the high-level topics discussed in
-  a document that usually possesses hierarchical topic structures. Thus, it is
+abstract: >
+  Keyphrases can concisely describe the high-level topics discussed in a
+  document that usually possesses hierarchical topic structures. Thus, it is
   crucial to understand the hierarchical topic structures and employ it to guide
   the keyphrase identification. However, integrating the hierarchical topic
   information into a deep keyphrase generation model is unexplored. In this
@@ -16,7 +17,7 @@ abstract: "Keyphrases can concisely describe the high-level topics discussed in
   each other. To the best of our knowledge, this is the first attempt to
   leverage the neural hierarchical topic to guide keyphrase generation. The
   experimental results demonstrate that our method significantly outperforms the
-  existing state-of-the-art methods across five benchmark datasets."
+  existing state-of-the-art methods across five benchmark datasets.
 slides: null
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
