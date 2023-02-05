@@ -15,24 +15,24 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 欢迎来到数据智能实验室
+      content: 来看一看我们的团队近况吧...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: welcome.jpg
+    - title: 
+      content: 
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+        media: welcome.jpg
+    - title:
+      content:
       align: right
       background:
         position: center
@@ -42,6 +42,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
+        text: 联系我们
         url: ../contact/
 ---
