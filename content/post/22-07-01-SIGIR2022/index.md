@@ -3,8 +3,7 @@ title: 团队1篇论文被CCF A类会议SIGIR 2022录用
 date: 2022-03-31T16:00:00.000Z
 summary: 4月1日，中国计算机学会（CCF）推荐的A类国际学术会议SIGIR
   2022论文接收结果公布。中国民航大学计算机科学与技术学院师生有1篇长文被录用。SIGIR是人工智能领域智能信息检索方向权威的国际学术会议。
-authors:
-  - 新闻发布
+authors: []
 image:
   filename: https://www.cauc.edu.cn/__local/7/2D/DD/2AABDA41173270E51D40E098E15_04C3D4DF_B651.vsb
 ---
