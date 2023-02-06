@@ -7,7 +7,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    link: mailto: l_lu@cauc.edu.cn
+    mailto: l_lu@cauc.edu.cn
     icon: envelope
 
 email:  l_lu@cauc.edu.cn
