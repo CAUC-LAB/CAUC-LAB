@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: 最新消息
+widget_id: News
 headless: true
 weight: 20
-title: 最新消息
+title: News
 subtitle: null
 content:
   count: 5
