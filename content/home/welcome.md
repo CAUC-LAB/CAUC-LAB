@@ -3,24 +3,21 @@ widget: hero
 widget_id: test
 headless: true
 weight: 10
-title: 数据智能实验室
-subtitle: 中国民航大学计算机科学与技术学院
+title: Data Intelligence Lab
+hero_media: welcome.jpg
 active: true
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    text_color_light: true
+    text_color_light: false
     brightness: 0.3
-    image: title.jpg
+    image: ""
     color: ""
     gradient_start: ""
     gradient_end: ""
     image_darken: 0.7
 ---
 <br>
-
-中国民航大学<br>
-计算机科学与技术学院<br>
-数据智能实验室<br>
+Data Intelligence Lab<br>
