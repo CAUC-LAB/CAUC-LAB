@@ -15,17 +15,13 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  email: yuheng_star@163.com
   phone: +86 12345678
   address:
     street: 东丽区
     city: 天津市
     postcode: '300300'
     country: 中国
-    country_code: US
-  coordinates:
-    latitude: '39.115039'
-    longitude: '117.359298'
   directions: 津北公路2898号
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -38,16 +34,16 @@ content:
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  #autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: true
 
 design:
   columns: '1'
