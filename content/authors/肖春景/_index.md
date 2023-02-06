@@ -2,15 +2,17 @@
 title: 肖春景
 role: 讲师
 avatar_filename: avatar.jpg
-bio: 
+bio: null
+interests:
+  - 数据挖掘
+  - 推荐系统
 social:
   - display:
       header: false
     icon_pack: fas
     link: mailto:#
     icon: envelope
-
-email: #
+email: null
 superuser: false
 user_groups:
   - 导师
