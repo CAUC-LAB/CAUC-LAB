@@ -17,7 +17,7 @@ design:
     color: ""
     gradient_start: ""
     gradient_end: ""
-    image_darken: 0.8
+    image_darken: 0.7
 ---
 <br>
 
