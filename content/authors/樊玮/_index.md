@@ -1,6 +1,6 @@
 ---
 title: 樊玮
-role: professor
+role: 教授
 avatar_filename: avatar.jpg
 bio: 
 interests:
