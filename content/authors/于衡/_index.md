@@ -14,9 +14,14 @@ social:
 organizations:
   - name: 中国民航大学
 education:
-  courses: []
+  courses:
+    - course: 硕士
+      institution: 中国民航大学
+      year: 2022
+    - course: 学士
+      institution: 山东农业大学
+      year: 2017
 superuser: true
 user_groups:
   - 研一
-  - 管理员
 ---
