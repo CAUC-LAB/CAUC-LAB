@@ -11,9 +11,9 @@ design:
   css_style: null
   css_class: null
   background:
-    text_color_light: true
+    text_color_light: false
     brightness: 0.3
-    image: title.jpg
+    image: ""
     color: ""
     gradient_start: ""
     gradient_end: ""
