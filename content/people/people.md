@@ -17,12 +17,6 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - 导师
-    - 博士
-    - 研三
-    - 研二
-    - 研一
-    - 毕业生
-    - 管理员
 design:
   show_interests: true
   show_role: true
