@@ -50,7 +50,8 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022-{year}. 数据智能实验室 {license}'
+    notice: '© 2022-{year}. 中国民航大学 数据智能实验室'
+#    notice: '© 2022-{year}. 中国民航大学 数据智能实验室 {license}'
 #    license:
 #      enable: true
 #      allow_derivatives: false
