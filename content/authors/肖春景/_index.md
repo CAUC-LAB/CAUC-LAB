@@ -15,7 +15,7 @@ social:
 email: null
 superuser: false
 user_groups:
-  - 导师
+  - 讲师
 ---
 <div class="v_news_content">
 <style>

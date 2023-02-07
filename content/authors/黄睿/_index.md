@@ -17,7 +17,7 @@ social:
 email: rhuang@cauc.edu.cn
 superuser: false
 user_groups:
-  - 导师
+  - 讲师
 ---
 
 

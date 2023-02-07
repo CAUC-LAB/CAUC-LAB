@@ -27,7 +27,7 @@ education:
 email: wfan@cauc.edu.cn
 superuser: false
 user_groups:
-  - 导师
+  - 教授
 ---
 基本信息
 

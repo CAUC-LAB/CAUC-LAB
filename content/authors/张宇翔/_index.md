@@ -19,7 +19,7 @@ education:
 email: yxzhang@cauc.edu.cn
 superuser: false
 user_groups:
-  - 导师
+  - 教授
 ---
 # 个人简介
  
