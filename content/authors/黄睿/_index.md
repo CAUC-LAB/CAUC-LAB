@@ -15,7 +15,7 @@ social:
     icon: envelope
 
 email: rhuang@cauc.edu.cn
-superuser: false
+superuser: true
 user_groups:
   - 讲师
 ---

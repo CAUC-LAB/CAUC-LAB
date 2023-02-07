@@ -15,7 +15,7 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: classic
+  font: minimal
   font_size: L
 
 # SEO

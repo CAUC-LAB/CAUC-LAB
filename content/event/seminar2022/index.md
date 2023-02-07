@@ -6,8 +6,8 @@ url_pdf: ""
 summary: 学术交流研讨会
 title: 2022年度学术报告及研究生学术交流会圆满结束
 location: 中国民航大学北校区
-date: 2022-12-03T00:30:00.000Z
-date_end: 2022-12-03T10:10:00.000Z
+date: 2022-12-03T08:30:00.000Z
+date_end: 2022-12-03T18:10:00.000Z
 all_day: false
 event: 2022年度学术报告及研究生学术交流会
 event_url: "null"
@@ -28,7 +28,7 @@ projects: null
 image:
   caption: ""
   focal_point: Right
-  filename: https://ailab.netlify.app/event/example/featured_hua9f82520d3fa1a5acbde7d0f7613171d_2690915_720x2500_fit_q75_h2_lanczos.webp
+  filename: https://ailab.netlify.app/event/seminar2022/featured_hua9f82520d3fa1a5acbde7d0f7613171d_2690915_720x2500_fit_q75_h2_lanczos.webp
 url_code: ""
 ---
 中国民航大学计算机科学与技术学院数据智能实验室(Data Intelligence Lab)组织的2022 年度学术报告及研究生学术交流会，已于2022年12 月3 日8：30-18：10 圆满结束
