@@ -3,7 +3,7 @@ widget: pages
 widget_id: News
 headless: true
 weight: 20
-title: News
+title: 团队近况
 subtitle: null
 content:
   count: 5
