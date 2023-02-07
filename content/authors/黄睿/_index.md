@@ -71,28 +71,3 @@ user_groups:
 <p style="margin-top:4px;margin-bottom: auto;margin-left:0;text-align:left;background:white"><span style="font-size:13px;font-family:Symbol;color:#24292F">·<span style="font:9px 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><strong><span style="font-size:16px;font-family:'Segoe UI',sans-serif;color:#24292F">"Saliency and co-saliency detection by low-rank multiscale fusion"</span></strong><span style="font-size:16px;font-family:'Segoe UI',sans-serif;color:#24292F">, Rui Huang, Wei Feng*, Jizhou Sun, IEEE International Conference on Multimedia &amp; Expo (<strong>ICME</strong>), 2015.&nbsp;</span><a href="https://www.researchgate.net/publication/273766216_Saliency_and_Co-Saliency_Detection_by_Low-Rank_Multiscale_Fusion"><span style="font-size:16px;font-family:'Segoe UI',sans-serif;color:blue">[PDF]</span></a></p>
 <p><br></p>
 </div>
-
-           <div class="con_bm cleafix">
-                       
-                        <a href="javascript:window.opener=null;window.open('','_self');window.close();" class="close">关闭</a>
-                        <a href="javascript:window.print()" class="dy">打印</a>
-                    </div>       
-
-
-
-
-</div><div id="div_vote_id"></div>
-
-
-
-
-
-
-       
-    
-
-
-
- 
-   
-</div>
