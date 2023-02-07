@@ -4,6 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# font:
+#Minimal (modern)
+#Classic (original Academic v1 style)
+#Rose (traditional serif)
+#Mr Robot (futuristic)
+#Cyberpunk (hacker style)
+#Native: use device fonts for maximum performance
 
 appearance:
   theme_day: minimal
